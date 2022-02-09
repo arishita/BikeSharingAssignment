@@ -20,10 +20,10 @@ The company wants to know: - Which variables are significant in predicting the d
 demands Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across 
 the American market based on some factors.
 
-Steps that are performed
-Step 1 - Read And Understanding The Data
-Step 2 - Visualising The Data
-Step 3 - Data Preparation
-Step 4 - Training The Model
-Step 5 - Residual Analysis of the train data
-Step 6 - Making Predictions Using the Final Model
+Steps that are performed<br>
+Step 1 - Read And Understanding The Data<br>
+Step 2 - Visualising The Data<br>
+Step 3 - Data Preparation<br>
+Step 4 - Training The Model<br>
+Step 5 - Residual Analysis of the train data<br>
+Step 6 - Making Predictions Using the Final Model<br>
